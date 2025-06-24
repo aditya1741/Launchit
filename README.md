@@ -1,7 +1,7 @@
 ﻿
 # 🚀 LaunchIt - A Web Deployment Platform
 
-[!LaunchIt Banner](https://raw.githubusercontent.com/aditya1741/Launchit/refs/heads/main/Screenshot%202025-04-22%20095630.png)
+[![LaunchIt Banner](https://raw.githubusercontent.com/aditya1741/Launchit/refs/heads/main/Screenshot%202025-04-22%20095630.png)]
 
 > LaunchIt is a modern, full-stack deployment platform inspired by Vercel. 
   It enables developers to deploy their applications seamlessly with Git integration, real-time logs, analytics, and collaboration features.
